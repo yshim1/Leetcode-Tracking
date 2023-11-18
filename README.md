@@ -1,2 +1,2 @@
 # leetcode-tracking
-A repository where I will track my leetcode progress and learning
+A repository where I will track my leetcode progress and learning. The official start date of this repository is Nov 18th 2023 but I will be adding previously done problems for the next day(s). As of today, problems will be solved mainly in Python and comments will be used as studying support. My objective is to improve my programming, analytical, and problem solving skills while generally maintaining good programming practices.
